@@ -1,0 +1,19 @@
+.problemimage {
+    margin: auto;
+    text-align: center;
+}
+.cardContainer {
+    margin-top: 20px;
+  }
+  .card {
+    margin: 0 auto;
+  }
+  .btnbtn-primarybtn-lg {
+    background-color: #818c79;
+  }
+  .jumbotron {
+    align-items: center;
+  }
+  .display-4 {
+    text-align: center;
+  }
