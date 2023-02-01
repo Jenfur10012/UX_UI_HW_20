@@ -1,19 +1,62 @@
-.problemimage {
-    margin: auto;
-    text-align: center;
-}
 .cardContainer {
     margin-top: 20px;
-  }
+}
   .card {
     margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
-  .btnbtn-primarybtn-lg {
-    background-color: #818c79;
+  .btn {
+    background-color: white;
+    border: #818c79;
+    color: black;
   }
   .jumbotron {
     align-items: center;
+    background-color: #818c79;
+    align-content: center;
+    justify-content: center;
   }
   .display-4 {
     text-align: center;
+    display: block;
   }
+  .lead {
+    text-align: center;
+  }
+  .my-4 {
+    text-align: center;
+  }
+  .nav {
+    background-color:white;
+  }
+
+.card-body {
+    align-content: center;
+}
+.container {
+    align-content: center;
+}
+.card-header {
+    background-color: #8c8581;
+}
+.list-unstyled {
+    margin: 20px;
+  }
+.mr-3 {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
+.media-body {
+    align-items:  center;
+    text-align: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+ 
